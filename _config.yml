@@ -1,0 +1,12 @@
+# Site settings
+title: ssjoleary
+email: ssjoleary@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Photography and Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ssjoleary.github.io" # the base hostname & protocol for your site
+twitter_username: ssjoleary
+github_username:  ssjoleary
+
+# Build settings
+markdown: kramdown

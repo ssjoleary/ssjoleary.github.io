@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+      <div class="blog-content col-md-11">
+        <div class="blog-post">
+        {% for post in site.posts %}
+          {% for img in post.imgs %}
+          <img src="/imgs/{{ img }}">
+          {% endfor %}
+        {% endfor %}
+        </div>
+      </div>
+
