@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "kinsale"
+date:   2015-03-21 00:24:57
+categories:
+imgs:
+  - /imgs/kinsale/kinsale.JPG
+  - /imgs/kinsale/boats.JPG
+  - /imgs/kinsale/bridge.JPG
+  - /imgs/kinsale/stones.JPG
+img_captions:
+  -
+---

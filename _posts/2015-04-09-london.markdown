@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "london"
+date:   2015-04-09 00:24:57
+categories:
+imgs:
+  - /imgs/london/tube.JPG
+  - /imgs/london/picadilly.JPG
+  - /imgs/london/park.JPG
+  - /imgs/london/parktwo.JPG
+img_captions:
+  -
+---

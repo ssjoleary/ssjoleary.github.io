@@ -12,13 +12,10 @@ layout: album
     {{ content }}
   </article>
 
-  <div class="blog-content col-md-10 col-md-offset-1">
+  <div class="blog-content col-md-12">
         <div class="blog-post">
           {% for img in page.imgs %}
-          <img src="/imgs/{{ img }}">
-          {% for caption in page.img_captions %}
-          <h3> {{ caption }} </h3>
-          {% endfor %}
+          <img src="{{ img }}">
           {% endfor %}
         </div>
       </div>

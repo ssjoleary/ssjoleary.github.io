@@ -9,6 +9,11 @@ body {
   font-size: 32px;
 }
 
+.row > .blog-content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .blog-header {
   font-family: 'Amatic SC', cursive;
   font-size: 32px;
@@ -43,11 +48,9 @@ img {
 .blog-sidebar-content.affix {
   position:fixed;
   top: 20px;
-  width: 68px;
 }
 
 .blog-sidebar-content.affix-top {
-  width: 68px;
 }
 
 .blog-sidebar-title {

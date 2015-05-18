@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "parade"
+date:   2015-03-16 00:24:57
+categories:
+imgs:
+  - /imgs/parade/warrior.JPG
+  - /imgs/parade/girl.JPG
+  - /imgs/parade/dragon.JPG
+  - /imgs/parade/head.JPG
+img_captions:
+  -
+---
