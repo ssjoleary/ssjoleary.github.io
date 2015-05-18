@@ -4,10 +4,10 @@ title:  "parade"
 date:   2015-03-16 00:24:57
 categories:
 imgs:
-  - /imgs/parade/warrior.JPG
-  - /imgs/parade/girl.JPG
-  - /imgs/parade/dragon.JPG
-  - /imgs/parade/head.JPG
+  - /imgs/parade/warrior.jpg
+  - /imgs/parade/girl.jpg
+  - /imgs/parade/dragon.jpg
+  - /imgs/parade/head.jpg
 img_captions:
   -
 ---

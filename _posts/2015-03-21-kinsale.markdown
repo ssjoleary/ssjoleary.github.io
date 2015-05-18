@@ -4,10 +4,10 @@ title:  "kinsale"
 date:   2015-03-21 00:24:57
 categories:
 imgs:
-  - /imgs/kinsale/kinsale.JPG
-  - /imgs/kinsale/boats.JPG
-  - /imgs/kinsale/bridge.JPG
-  - /imgs/kinsale/stones.JPG
+  - /imgs/kinsale/kinsale.jpg
+  - /imgs/kinsale/boats.jpg
+  - /imgs/kinsale/bridge.jpg
+  - /imgs/kinsale/stones.jpg
 img_captions:
   -
 ---

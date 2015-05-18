@@ -4,10 +4,10 @@ title:  "london"
 date:   2015-04-09 00:24:57
 categories:
 imgs:
-  - /imgs/london/tube.JPG
-  - /imgs/london/picadilly.JPG
-  - /imgs/london/park.JPG
-  - /imgs/london/parktwo.JPG
+  - /imgs/london/tube.jpg
+  - /imgs/london/picadilly.jpg
+  - /imgs/london/park.jpg
+  - /imgs/london/parktwo.jpg
 img_captions:
   -
 ---

@@ -4,9 +4,9 @@ title:  "moher"
 date:   2015-02-14 00:24:57
 categories: jekyll update
 imgs:
-  - /imgs/moher/moher.JPG
-  - /imgs/moher/mini.JPG
-  - /imgs/moher/castle.JPG
+  - /imgs/moher/moher.jpg
+  - /imgs/moher/mini.jpg
+  - /imgs/moher/castle.jpg
 img_captions:
   -
 ---
