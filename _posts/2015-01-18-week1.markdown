@@ -4,10 +4,10 @@ title:  "week1"
 date:   2015-01-18 00:24:57
 categories:
 imgs:
-  - /imgs/week1/one.jpg
-  - /imgs/week1/two.jpg
-  - /imgs/week1/three.jpg
-  - /imgs/week1/four.jpg
+  - /imgs/week1/one.JPG
+  - /imgs/week1/two.JPG
+  - /imgs/week1/three.JPG
+  - /imgs/week1/four.JPG
 img_captions:
   - widderlings lane, cork
   - view of shandon
