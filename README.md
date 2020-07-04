@@ -1,6 +1,6 @@
 ## ssjoleary.com
 
-Handmade personal website at [ssjoleary.com](ssjoleary.com)
+Handmade personal website at [ssjoleary.com](https://ssjoleary.com)
 
 ## License
 
