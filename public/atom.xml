@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ssjoleary.com</title>
+  <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
+  <link href="https://github.com/borkdude/quickblog"/>
+  <updated>2023-02-27T15:46:46+00:00</updated>
+  <id>https://github.com/borkdude/quickblog</id>
+  <author>
+    <name>Quick Blogger</name>
+  </author>
+  <entry>
+    <id>https://github.com/borkdude/quickblog/toronto-garden.html</id>
+    <link href="https://github.com/borkdude/quickblog/toronto-garden.html"/>
+    <title>Toronto Garden</title>
+    <updated>2020-07-04T23:59:59+00:00</updated>
+    <content type="html">
+      <![CDATA[<p><img src="img/garden-1.jpg" alt="Honey Bee on a lilac flower in sunlight" title="Honey Bee on a lilac flower in sunlight" /> <img src="img/garden-2.jpg" alt="Grasshopper chilling on some Mojito Mint plants" title="Grasshopper chilling on some Mojito Mint plants" /></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://github.com/borkdude/quickblog/toronto-vws.html</id>
+    <link href="https://github.com/borkdude/quickblog/toronto-vws.html"/>
+    <title>Toronto VW's</title>
+    <updated>2020-06-02T23:59:59+00:00</updated>
+    <content type="html">
+      <![CDATA[<p><img src="img/1.jpg" alt="Blueish grey Volkswagen Westfalia T3 Camper Van" title="Blueish grey Volkswagen Westfalia T3 Camper Van" /> <img src="img/2.jpg" alt="Similar blueish grey Volkswagen Westfalia T3 Camper Van" title="Similar blueish grey Volkswagen Westfalia T3 Camper Van" /> <img src="img/3.jpg" alt="White Volkswagen Westfalia T3 Camper Van at dusk" title="White Volkswagen Westfalia T3 Camper Van at dusk" /> <img src="img/4.jpg" alt="Side view of a yellow Volkswagen Westfalia T3 Camper Van" title="Side view of a yellow Volkswagen Westfalia T3 Camper Van" /> <img src="img/5.jpg" alt="Light blue Volkswagen T3 van in a pickup style with canvas over the truck bed" title="Light blue Volkswagen T3 van in a pickup style with canvas over the truck bed" /> <img src="img/6.jpg" alt="Front right view of a tan Volkswagen Westfalia T3" title="Front right view of a tan Volkswagen Westfalia T3" /> <img src="img/7.jpg" alt="Front left view of another different blueish grey Volkswagen Westfalia T3 Camper van" title="Front left view of another different blueish grey Volkswagen Westfalia T3 Camper van" /> <img src="img/8.jpg" alt="Front left view of a lovely two tone tan and brown Volkswagen T3 Camper van" title="Front left view of a lovely two tone tan and brown Volkswagen T3 Camper van" /> <img src="img/9.jpg" alt="Side view of a retro Volkswagen T2 Camper van with flower decal" title="Side view of a retro Volkswagen T2 Camper van with flower decal" /></p>]]>
+    </content>
+  </entry>
+</feed>
